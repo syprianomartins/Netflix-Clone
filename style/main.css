@@ -105,3 +105,12 @@ header nav a:hover {
 .carrosel-filmes {
     margin-top: 5px
 }
+
+.item{
+    cursor: pointer;
+    transition: .1s ease all;
+}
+.item:hover{
+    border-style: solid;
+    border-color: var(--vermelho);
+}
