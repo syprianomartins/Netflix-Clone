@@ -23,12 +23,12 @@ header .container {
     justify-content: space-between;
 }
 
-header .logo {
+header .logo a{
     margin-left: 5px;
     color: var(--vermelho);
     font-family: 'Arial Black', Times;
     font-size: 40px;
-
+    text-decoration: none;
 }
 
 header nav a {
